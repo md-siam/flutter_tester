@@ -25,7 +25,7 @@ Learn to write code with TDD approach for Flutter, Learn in detail about Unit, W
 ## Test Pyramid, TDD Approach & AAA Pattern
 
 <img align="left" src="screenshots/images/test_pyramid.png" height="250"></img>
-<img align="right" src="screenshots/images/tdd.png" height="290"></img>
+<img align="right" src="screenshots/images/tdd.png" height="250"></img>
 <br><br><br>
 
 <p align="center">
