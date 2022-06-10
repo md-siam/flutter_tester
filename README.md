@@ -27,5 +27,5 @@ Learn to write code with TDD approach for Flutter, Learn in detail about Unit, W
 <p align="center">
 <img align="center" src="screenshots/images/test_pyramid.png"></img>
 <img align="right" src="screenshots/images/tdd.png" height="200"></img>
-<img align="left" src="screenshots/images/image5.png"></img>
+<img align="left" src="screenshots/images/image5.png" height="200"></img>
 </p>
