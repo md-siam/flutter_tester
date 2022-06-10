@@ -29,15 +29,14 @@ Learn to write code with TDD approach for Flutter, Learn in detail about Unit, W
 
 ```
 
-
 Unit testing is like testing a unit of code, function, or 
 classes.
 
 Rules for unit testing:
-1. Test should be independent.
-2. There should not be any implementation logic in unit text.
-3. Test should be simple, fast, clean, & readable.
-
+    1. Test should be independent.
+    2. There should not be any implementation logic 
+        in unit text.
+    3. Test should be simple, fast, clean, & readable.
 
 
 ```
