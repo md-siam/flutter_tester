@@ -37,6 +37,19 @@ Rules for unit testing:
 1. Test should be independent.
 2. There should not be any implementation logic in unit text.
 3. Test should be simple, fast, clean, & readable.
+
+Sample:
+void main(){
+    test("description",(){
+        // ARRANGE
+
+        // ACT
+
+        // ASSERT
+
+    });
+}
+
 ```
 
 <img align="left" src="screenshots/images/image5.png"></img>
