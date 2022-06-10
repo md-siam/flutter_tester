@@ -7,7 +7,9 @@ class MyUnitTest extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(title: const Text('Unit Testing')),
-      body: Center(),
+      body: const Center(
+        child: Text('Testing'),
+      ),
     );
   }
 }
