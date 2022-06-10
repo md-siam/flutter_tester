@@ -30,6 +30,8 @@ Learn to write code with TDD approach for Flutter, Learn in detail about Unit, W
 <img align="right" src="screenshots/images/tdd.png" height="260"></img>
 
 ```
+
+
 Unit testing is like testing a unit of code, function, or 
 classes.
 
@@ -38,17 +40,7 @@ Rules for unit testing:
 2. There should not be any implementation logic in unit text.
 3. Test should be simple, fast, clean, & readable.
 
-Sample:
-void main(){
-    test("description",(){
-        // ARRANGE
 
-        // ACT
-
-        // ASSERT
-
-    });
-}
 
 ```
 
