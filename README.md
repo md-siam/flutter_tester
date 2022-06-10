@@ -15,14 +15,15 @@ Udemy Tutorial link: https://www.udemy.com/course/flutter-testing-unit-widget-in
 
 Learn to write code with TDD approach for Flutter, Learn in detail about Unit, Widget & Integration Testing
 
-## What you'll learn?
+## What I've learned?
 
 ✅ &nbsp;&nbsp;&nbsp;&nbsp;- Flutter Unit Testing <br>
 ✅ &nbsp;&nbsp;&nbsp;&nbsp;- Flutter Widget Testing <br>
 ✅ &nbsp;&nbsp;&nbsp;&nbsp;- Flutter Integration Testing <br>
 ✅ &nbsp;&nbsp;&nbsp;&nbsp;- Learn to write code with TDD <br>
 
-## Screenshots
+## Test Pyramid & TDD Approach
 
 <img align="left" src="screenshots/images/text_pyramid.png" height="300"></img>
 <img align="right" src="screenshots/images/tdd.png" height="300"></img>
+
