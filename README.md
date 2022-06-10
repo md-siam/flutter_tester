@@ -17,10 +17,10 @@ Learn to write code with TDD approach for Flutter, Learn in detail about Unit, W
 
 ## What I've learned?
 
-✅ &nbsp;&nbsp;&nbsp;&nbsp;- Flutter Unit Testing <br>
-✅ &nbsp;&nbsp;&nbsp;&nbsp;- Flutter Widget Testing <br>
-✅ &nbsp;&nbsp;&nbsp;&nbsp;- Flutter Integration Testing <br>
-✅ &nbsp;&nbsp;&nbsp;&nbsp;- Learn to write code with TDD <br>
+✅ &nbsp;&nbsp;&nbsp;&nbsp;-  Flutter Unit Testing <br>
+✅ &nbsp;&nbsp;&nbsp;&nbsp;-  Flutter Widget Testing <br>
+✅ &nbsp;&nbsp;&nbsp;&nbsp;-  Flutter Integration Testing <br>
+✅ &nbsp;&nbsp;&nbsp;&nbsp;-  Learn to write code with TDD <br>
 
 ## Test Pyramid & TDD Approach
 
