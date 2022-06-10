@@ -2,7 +2,7 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:flutter_tester/1_unit_testing/validator.dart';
 
 void main() {
-  ///--------------------[Email Validator]
+  ///--------------------[Email Validator]--------------------
   group("Email validators", () {
     test('Validate for empty email id', () {
       // Arrange & Act
@@ -29,7 +29,7 @@ void main() {
     });
   });
 
-  ///--------------------[Password Validator]
+  ///--------------------[Password Validator]--------------------
   group('Password validators', () {
     test('Validate for empty password', () {
       // Arrange & Act

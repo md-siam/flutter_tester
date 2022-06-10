@@ -22,11 +22,12 @@ Learn to write code with TDD approach for Flutter, Learn in detail about Unit, W
 ✅ &nbsp;&nbsp;&nbsp;&nbsp;- Flutter Integration Testing <br>
 ✅ &nbsp;&nbsp;&nbsp;&nbsp;- Learn to write code with TDD <br>
 
-## Test Pyramid & TDD Approach
+## Test Pyramid, TDD Approach & AAA Pattern
 
-<img align="left" src="screenshots/images/text_pyramid.png" height="300"></img>
-<img align="right" src="screenshots/images/tdd.png" height="300"></img>
+<img align="left" src="screenshots/images/test_pyramid.png" height="280"></img>
+<img align="right" src="screenshots/images/tdd.png" height="290"></img>
 <br><br><br>
+
 <p align="center">
 <img align="center" src="screenshots/images/image5.png"></img>
 </p>
