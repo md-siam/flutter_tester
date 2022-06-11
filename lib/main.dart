@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_tester/routes.dart';
 
-
-
 void main() => runApp(const MyApp());
 
 class MyApp extends StatelessWidget {
@@ -14,7 +12,8 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Tester',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(primarySwatch: Colors.blue),
-      home: const LoginScreen(),
+      //home: const LoginScreenUnitTest(),
+      home: const LoginScreenWidgetTest(),
     );
   }
 }
