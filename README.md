@@ -36,8 +36,8 @@ Udemy Tutorial link: [Flutter testing : Unit, Widget & Integration testing](http
 
 ```
 
-Unit Testing꞉ Unit testing is like testing a unit of code, function, or
-classes.
+Unit Testing꞉ Unit testing is like testing a unit of code,
+function, or classes.
 
 Rules for unit testing:
     ⓵ Test should be independent.
@@ -54,7 +54,8 @@ Rules for unit testing:
 
 ```
 
-Widgets Testing꞉ In Flutter everything is widgets. So, we have to write test cases for widgets as well !!
+Widgets Testing꞉ In Flutter everything is widgets. So, we have to write test cases for widgets
+as well !!
 
 Rules for unit testing:
     ⓵ Test should be independent.
@@ -64,7 +65,8 @@ Rules for unit testing:
 ```
 
 ```
-Integration Testing꞉ Integration testing is very important because it tests the complete flow of an application.
+Integration Testing꞉ Integration testing is very important because it tests the complete flow of
+an application.
 
 Rules for unit testing:
     ➜ In integration testing, we pass some sample data to the test cases.
