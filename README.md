@@ -13,8 +13,15 @@ Introduction to flutter testing: This repo will teach you about testing in a flu
 Udemy Tutorial link: [Flutter testing : Unit, Widget & Integration testing](https://www.udemy.com/course/flutter-testing-unit-widget-integration-testing/)
 <br>
 You may also need these libraries:<br>
-⓵ [flutter_test](https://api.flutter.dev/flutter/flutter_test/flutter_test-library.html)<br>
-⓶ [fake_async](https://pub.dev/packages/fake_async)<br>
+⓵ [test](https://pub.dev/packages/test)<br>
+⓶ [flutter_test-library](https://api.flutter.dev/flutter/flutter_test/flutter_test-library.html)<br>
+⓷ [fake_async](https://pub.dev/packages/fake_async)<br>
+⓸ [bloc_test](https://pub.dev/packages/bloc_test)<br>
+⓹ [very_good_test_runner](https://pub.dev/packages/very_good_test_runner)<br>
+⓺ [web_benchmarks](https://pub.dev/packages/web_benchmarks)<br>
+
+<!-- Double Circled Number http://xahlee.info/comp/unicode_circled_numbers.html
+⓵ ⓶ ⓷ ⓸ ⓹ ⓺ ⓻ ⓼ ⓽ ⓾ -->
 
 ## What you'll learn?
 
