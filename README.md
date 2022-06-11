@@ -45,7 +45,6 @@ Rules for unit testing:
         unit test.
     ⓷ Test should be simple, fast, clean, & readable.
 
-
 ```
 
 <p align="center">
@@ -65,10 +64,12 @@ Rules for unit testing:
 ```
 
 ```
+
 Integration Testing꞉ Integration testing is very important because it tests the complete flow of
 an application.
 
 Rules for unit testing:
     ➜ In integration testing, we pass some sample data to the test cases.
     ➜ Then based on that sample data our application is run automatically.
+
 ```
