@@ -10,9 +10,7 @@
 
 Introduction to flutter testing: This repo will teach you about testing in a flutter. It includes unit testing, widget testing & integration testing. It's a beginner's Flutter testing course from Udemy, and all the useful links is given below:
 <br><br>
-Udemy Tutorial link: [Flutter testing : Unit, Widget & Integration testing](https://www.udemy.com/course/flutter-testing-unit-widget-integration-testing/)
-<br>
-You may also need these libraries:<br>
+Udemy Tutorial link: [Flutter testing : Unit, Widget & Integration testing](https://www.udemy.com/course/flutter-testing-unit-widget-integration-testing/). Some useful links of packages are available below:<br>
 ⓵ [test](https://pub.dev/packages/test)<br>
 ⓶ [flutter_test-library](https://api.flutter.dev/flutter/flutter_test/flutter_test-library.html)<br>
 ⓷ [fake_async](https://pub.dev/packages/fake_async)<br>
