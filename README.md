@@ -13,10 +13,11 @@ Introduction to flutter testing: This repo will teach you about testing in a flu
 Udemy Tutorial link: [Flutter testing : Unit, Widget & Integration testing](https://www.udemy.com/course/flutter-testing-unit-widget-integration-testing/). Some useful links of packages & documentations are available below:<br>
 ⓵ [test](https://pub.dev/packages/test)<br>
 ⓶ [flutter_test-library](https://api.flutter.dev/flutter/flutter_test/flutter_test-library.html)<br>
-⓷ [fake_async](https://pub.dev/packages/fake_async)<br>
-⓸ [bloc_test](https://pub.dev/packages/bloc_test)<br>
-⓹ [very_good_test_runner](https://pub.dev/packages/very_good_test_runner)<br>
-⓺ [web_benchmarks](https://pub.dev/packages/web_benchmarks)<br>
+⓷ [integration_test](https://pub.dev/packages/integration_test) [DISCONTINUED]<br>
+⓸ [fake_async](https://pub.dev/packages/fake_async)<br>
+⓹ [bloc_test](https://pub.dev/packages/bloc_test)<br>
+⓺ [very_good_test_runner](https://pub.dev/packages/very_good_test_runner)<br>
+⓻ [web_benchmarks](https://pub.dev/packages/web_benchmarks)<br>
 
 <!-- Double Circled Number http://xahlee.info/comp/unicode_circled_numbers.html
 ⓵ ⓶ ⓷ ⓸ ⓹ ⓺ ⓻ ⓼ ⓽ ⓾ -->
@@ -35,7 +36,7 @@ Udemy Tutorial link: [Flutter testing : Unit, Widget & Integration testing](http
 
 ```
 
-Unit testing is like testing a unit of code, function, or
+Unit Testing꞉ Unit testing is like testing a unit of code, function, or
 classes.
 
 Rules for unit testing:
@@ -53,11 +54,19 @@ Rules for unit testing:
 
 ```
 
-In Flutter everything is widgets. So, we have to write test cases for widgets as well !!
+Widgets Testing꞉ In Flutter everything is widgets. So, we have to write test cases for widgets as well !!
 
 Rules for unit testing:
     ⓵ Test should be independent.
     ⓶ There should not be creating any new widget.
     ⓷ Test should be simple, fast, clean, & readable.
 
+```
+
+```
+Integration Testing꞉ Integration testing is very important because it tests the complete flow of an application.
+
+Rules for unit testing:
+    ➜ In integration testing, we pass some sample data to the test cases.
+    ➜ Then based on that sample data our application is run automatically.
 ```

@@ -1,5 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_tester/routes.dart';
+
+import 'routes.dart';
+
+
 
 void main() => runApp(const MyApp());
 
@@ -13,7 +16,8 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       theme: ThemeData(primarySwatch: Colors.blue),
       //home: const LoginScreenUnitTest(),
-      home: const LoginScreenWidgetTest(),
+      //home: const LoginScreenWidgetTest(),
+      home: const LoginScreenIntegrationTest(),
     );
   }
 }
