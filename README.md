@@ -4,7 +4,7 @@
 <img src="screenshots/badges/Flutter-3.svg" height="28px" />&nbsp;&nbsp;
 <img src="screenshots/badges/dart-null_safety-blue.svg" height="28px"/>
 
-# Flutter Tester
+# Flutter Tester - [Udemy](https://www.udemy.com/course/flutter-testing-unit-widget-integration-testing/)
 
 <img align="right" src="screenshots/store_icons/playstore.png" height="200"></img>
 
